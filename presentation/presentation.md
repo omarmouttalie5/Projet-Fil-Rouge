@@ -106,14 +106,14 @@ Encadrant : ES-Sarraj Fouad
 
 ## Scrum
 
-![Méthode Scrum](../rapport/SCRUM/scrum.png)
+![Méthode Scrum](../rapport/M%C3%A9thodologie%20Scrum/scrum.png)
 
 ---
 <!-- _class: image-only -->
 
 ## Processus 2TUP
 
-![Processus 2TUP](../rapport/2TUP/images.jpg)
+![Processus 2TUP](<../rapport/Processus 2TUP/images.jpg>)
 
 ---
 
@@ -121,7 +121,7 @@ Encadrant : ES-Sarraj Fouad
 
 ## Design Thinking
 
-![Design Thinking](../rapport/design_thinking/design_thinking.jpg)
+![Design Thinking](<../rapport/Design Thinking/design_thinking.jpg>)
 
 ---
 
@@ -149,7 +149,7 @@ Encadrant : ES-Sarraj Fouad
 
 ## Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation](diagramme-cas-utilisation.png)
+![Diagramme de cas d'utilisation](diagramme-cas-utilisations.png)
 
 ---
 
